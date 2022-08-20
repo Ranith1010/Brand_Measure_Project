@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5090c81-42d6-4f64-9490-f979702a7748" name="Default Changelist" comment="" />
+    <list default="true" id="b5090c81-42d6-4f64-9490-f979702a7748" name="Default Changelist" comment="updated requirements.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/BrandMeasureProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BrandMeasureProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputFiles/eng.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientService.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_finaloutputsignal/StoreDiarizedOutput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_finaloutputsignal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_keywordspotter/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_keywordspotter/keywordSpotter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/SignalLabelling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/SignalLabelsPrediction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_preprocessing/SingalPreprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_preprocessing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_service/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_service/brandMeasureservice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_speech_to_text/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_speech_to_text/transcriptGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_spellingcorrector/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_spellingcorrector/spellcorrector.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +31,49 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1k0VpCrJ7VDCAXqcwyJMq2qG4g1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/DATA SCIENCE/envs/BrandMeasure",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="clientService" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrandMeasureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientService.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clientService" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,23 +101,35 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added the file for running locally without api" />
     <MESSAGE value="updated requirements.txt" />
     <option name="LAST_COMMIT_MESSAGE" value="updated requirements.txt" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="536" y="84" key="CommitChangelistDialog2" timestamp="1604837911138">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="536" y="84" key="CommitChangelistDialog2/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1604837911138" />
-    <state x="486" y="174" key="SettingsEditor" timestamp="1604837874140">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="486" y="174" key="SettingsEditor/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1604837874140" />
-    <state x="592" y="275" key="Vcs.Push.Dialog.v2" timestamp="1604837919752">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="592" y="275" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1604837919752" />
   </component>
 </project>

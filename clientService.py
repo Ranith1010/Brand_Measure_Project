@@ -6,9 +6,9 @@ from flask_cors import CORS, cross_origin
 import shutil, os
 import json
 
-from com_in_ineuron_ai_speech_to_text.transcriptGenerator import generateTranscript
-from com_in_ineuron_ai_spellingcorrector.spellcorrector import spell_corrector
-from com_in_ineuron_ai_keywordspotter.keywordSpotter import AddMultiKeywords
+from ai_speech_to_text.transcriptGenerator import generateTranscript
+from ai_spellingcorrector.spellcorrector import spell_corrector
+from ai_keywordspotter.keywordSpotter import AddMultiKeywords
 
 
 app = Flask(__name__)
@@ -97,7 +97,7 @@ def processInputFile():
 
 if __name__ == "__main__":
     clntApp = ClientService()
-    host = '0.0.0.0'
+    host = '127.0.0.1'
     port = 5000
     httpd = simple_server.make_server(host, port, app)
     print("Serving on %s %d" % (host, port))
